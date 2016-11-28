@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP TDC7200
+D The TDC7200 is a Time-to-Digital Converter (TDC)for ultrasonic sensing measurements such as waterflow meter, gas flow meter, and heat flow meter.When paired with the TDC1000 (ultrasonic analogfront-end),the TDC7200 can be a part of a completeTI ultrasonic sensing solution that includes theMSP430, power, wireless, and source code.The Time to Digital Converter (TDC) performs thefunction of a stopwatch and measures the elapsedtime (time-of-flight or TOF) between a START pulseand up to five STOP pulses. The ability to measurefrom START to multiple STOPs gives users theflexibility to select which STOP pulse yields the bestecho performance
+K time-of-flight, 
+$ENDCMP
+#
+#End Doc Library
